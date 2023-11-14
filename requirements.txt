@@ -1,0 +1,7 @@
+matplotlib
+scikit-learn
+torch
+rdkit-pypi
+dgllife
+tqdm
+dgl
