@@ -2,7 +2,7 @@
 
 Here, I demonstrate the application of various neural network architectures for the analysis and modeling of small molecules, showcasing the integration of machine learning techniques in bioinformatics.
 
-# Key Highlights:
+## Key Highlights:
 
 ### 1. Exploration of Neural Network Architectures:
 * One- and Multi-Layer MLP Networks: Initially, I focused on understanding and analyzing the behavior of single-layer and multi-layer Multi-Layer Perceptrons (MLPs). This foundational work set the stage for more complex applications in molecular modeling.
@@ -15,5 +15,5 @@ Here, I demonstrate the application of various neural network architectures for 
 ### 3. Comparative Analysis of Model Performance:
 * A critical aspect of this project was comparing the accuracy of these models in predicting molecular properties. This comparison not only highlighted the strengths and limitations of each neural network type but also provided insights into their suitability for various molecular datasets.
 
-# Conclusion
+## Conclusion
 This work illustrates the effective application of advanced neural network models to the field of molecular modeling. It underscores the importance of adapting and applying specialized machine learning techniques to handle the complexities inherent in chemical and biological data sets.
