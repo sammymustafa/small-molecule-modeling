@@ -1,19 +1,19 @@
 # Modeling Small Molecules (6.8701)
 
-Here, I demonstrate the application of various neural network architectures for the analysis and modeling of small molecules, showcasing the integration of machine learning techniques in bioinformatics.
+This project explores how different neural network architectures can be used to analyze and model small molecules, showing how machine learning methods can be applied in bioinformatics.
 
-## Key Highlights:
+## Key Highlights
 
-### 1. Exploration of Neural Network Architectures:
-* One- and Multi-Layer MLP Networks: Initially, I focused on understanding and analyzing the behavior of single-layer and multi-layer Multi-Layer Perceptrons (MLPs). This foundational work set the stage for more complex applications in molecular modeling.
+### 1. Exploring Neural Network Architectures
+* **Single- and Multi-Layer MLPs:** I began by working with single-layer and multi-layer perceptrons (MLPs) to build a baseline understanding of their behavior in molecular modeling.
 
-### 2. Modeling Different Molecular Representations:
-* Morgan Fingerprints with MLP: I applied MLPs to model Morgan fingerprints, a method for encoding molecular structures. This approach allowed for a nuanced understanding of molecular features and properties.
-* SMILES Strings with RNN: Utilizing Recurrent Neural Networks (RNNs), I worked with SMILES (Simplified Molecular Input Line Entry System) strings, a textual representation of chemical structures. This was a step towards integrating chemistry with natural language processing techniques.
-* Molecular Graphs with GNN: In a more advanced application, I employed Graph Neural Networks (GNNs) to model molecular graphs. This approach effectively captured the complex interactions within a molecule, demonstrating the power of GNNs in representing non-Euclidean data.
+### 2. Working with Different Molecular Representations
+* Morgan Fingerprints + MLPs: Used MLPs to model Morgan fingerprints, a way of encoding molecular structures, to capture structural features and chemical properties.  
+* SMILES Strings + RNNs: Applied recurrent neural networks (RNNs) to SMILES strings, treating chemical structures as text sequences to link chemistry with natural language approaches.  
+* Molecular Graphs + GNNs: Built models with graph neural networks (GNNs) to represent molecular graphs, allowing the capture of complex relationships between atoms and bonds.
 
-### 3. Comparative Analysis of Model Performance:
-* A critical aspect of this project was comparing the accuracy of these models in predicting molecular properties. This comparison not only highlighted the strengths and limitations of each neural network type but also provided insights into their suitability for various molecular datasets.
+### 3. Comparing Model Performance
+* I compared the models’ ability to predict molecular properties, noting the strengths and limitations of each approach and when one architecture may be more effective than another.
 
 ## Conclusion
-This work illustrates the effective application of advanced neural network models to the field of molecular modeling. It underscores the importance of adapting and applying specialized machine learning techniques to handle the complexities inherent in chemical and biological data sets.
+This work shows how neural networks can be adapted for molecular modeling. Each method offers different advantages and, together, they highlight the value of tailoring machine learning techniques to the challenges of chemical and biological data.
