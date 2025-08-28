@@ -1,11 +1,11 @@
 # Modeling Small Molecules (6.8701)
 
-This project explores how different neural network architectures can be used to analyze and model small molecules, showing how machine learning methods can be applied in bioinformatics.
+This project explores how different neural network architectures can be used to analyze and model small molecules.
 
 ## Key Highlights
 
 ### 1. Exploring Neural Network Architectures
-* **Single- and Multi-Layer MLPs:** I began by working with single-layer and multi-layer perceptrons (MLPs) to build a baseline understanding of their behavior in molecular modeling.
+* Single- and Multi-Layer MLPs: I began by working with single-layer and multi-layer perceptrons (MLPs) to build a baseline understanding of their behavior in molecular modeling.
 
 ### 2. Working with Different Molecular Representations
 * Morgan Fingerprints + MLPs: Used MLPs to model Morgan fingerprints, a way of encoding molecular structures, to capture structural features and chemical properties.  
